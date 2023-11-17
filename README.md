@@ -1,4 +1,4 @@
-# Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow
+# Desarrollar aplicaciones basadas en LLMs con LangChain, Semantic Kernel y Prompt Flow
 
 Este es el repositorio del curso de LinkedIn Learning `Desarrollar aplicaciones basadas en LLMs con LanChain, Semantic Kernel y Prompt Flow`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
