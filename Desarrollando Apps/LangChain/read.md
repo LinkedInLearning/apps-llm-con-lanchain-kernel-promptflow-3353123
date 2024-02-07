@@ -1,6 +1,6 @@
 # LangChain 🌱
 
- - Obtener API key
+ - framework to build appliations based on LLMs
 
 <!--
 **This** is a ✨ _special_ ✨ repository 
