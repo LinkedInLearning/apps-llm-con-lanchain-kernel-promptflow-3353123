@@ -1,6 +1,8 @@
-# OpenAI API 🌱
+# OpenAI Chat Completions API 🌱
 
- - Obtener API key
+ - Text Generation
+ - Recent Models
+ - Chat Endpoint
 
 <!--
 **This** is a ✨ _special_ ✨ repository 
