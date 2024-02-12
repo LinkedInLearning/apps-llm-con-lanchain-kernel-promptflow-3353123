@@ -1,6 +1,10 @@
-# OpenAI API 🌱
+# OpenAI Chat Completions API 🌱
 
- - Obtener API key
+ - Text Generation
+    - **Prompt**: funciona como una “entrada de información” con la cual el usuario le especifica el contexto y la tarea que se espera
+
+ - Recent Models
+ - Chat Endpoint
 
 <!--
 **This** is a ✨ _special_ ✨ repository 
