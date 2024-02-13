@@ -1,21 +1,11 @@
-# LangChain
+## Prompt Flow 
 
- LLMs 💬🗣️
+- Azure Subscription
 
- - GPT 3.5 (OpenAI)
- - GPT 4 (OpenAI)
- - BERT (Google)
- - LLaMA (Meta)
-
- Casos de uso: 📎
-
- - Marketing 🎨💸
- - Guiones 🗒️
- - Datasets 🗄️
- - Escritura creativa ✍️
- 
-
-
+    - Azure OpenAI (GPT-3.5-turbo) resource
+    - Azure AI Search resource
+    - Azure ML Workspace
+    - Compute
 
 <!--
 **This** is a ✨ _special_ ✨ repository 
