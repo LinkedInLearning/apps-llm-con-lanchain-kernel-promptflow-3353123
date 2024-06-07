@@ -29,7 +29,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 **Diana Díaz Bisbé**
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/desarrollar-aplicaciones-basadas-en-llms-con-lanchain-semantic-kernel-y-prompt-flow/
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQHqswE0uog2bQ/learning-public-crop_675_1200/0/1717144028040?e=2147483647&v=beta&t=6BVJEuEnwSOz0Kou7N0QrIZQ8KG-Or18otU9oa1hCbs
 
 [1]: # (End of ES-Instruction ###############################################################################################)
